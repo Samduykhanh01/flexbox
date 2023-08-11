@@ -109,6 +109,6 @@
 .footer-one,
 .footer-three {
     background-color: #5995DA;
-    flex: initial;
+    flex: 1;
     width: 300px;
 }
